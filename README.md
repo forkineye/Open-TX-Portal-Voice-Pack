@@ -20,5 +20,5 @@ For full setup instructions, plesae refer to [this video on Jereth MT's YouTube 
 ## About the Creator / Voice Pack ##
 I'm a web designer / developer by day, and flying quadcopters is one of my favorite hobbies. I just got a Taranis QX7 for Christmas and decided to take some time to create a fun voice pack for the community. I'm releasing the pack free of charge, but if you like this pack and want to support me, drop by and check out my [YouTube channel](https://www.youtube.com/channel/UCMK3_KYcJNlNJ_2X_UjrLfA) and consider giving me a subscription. Thanks!
 
-## About the updater / changes ##
+## About the Updater / Changes ##
 Found some funny qoutes missing so i added it, big tanks to Jareth MT for doing the boring work and creating this awsome pack. If you like the changes and want to support me, drop by and check out my [YouTube channel](https://www.youtube.com/channel/UCn4yo0J6IbaEticCCLqKxWw) aswell and consider giving me a subscription or follow me on instagram @creal_fpv Thanks!
