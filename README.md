@@ -6,10 +6,11 @@ This is a complete OpenTX voice pack based on the popular "Portal" game. Every v
 - [This Blog Post](http://allanrbo.blogspot.com/2016/09/glados-like-sound-pack-for-taranis.html)
 
 ## Setup Instructions ##
-For full setup instructions, plesae refer to [this video on my YouTube channel](https://www.youtube.com/watch?v=2Q9X3i3uFAU). This sound pack can be installed like any other sound pack for OpenTX, so if you're familiar with the process, you can simply download the files in this repo and get started.
+For full setup instructions, plesae refer to [this video on Jereth MT's YouTube channel](https://www.youtube.com/watch?v=2Q9X3i3uFAU). This sound pack can be installed like any other sound pack for OpenTX, so if you're familiar with the process, you can simply download the files in this repo and get started.
 
 ## Fun Notes ##
-- The startup sound "hello.wav" is the announcer from the beginning of Portal 2. There is an alternate startup sound in the "SYSTEM" folder labeled "hello2.wav"
+- The startup sound "hello.wav" is the announcer from the beginning of Portal 2. There are alternate startup sounsd in the "SYSTEM" folder labeled "hello2.wav" and "hello3.wav"
+- The shutdown sound is changed
 - Signal warnings are replaced with Wheatley asking "Where are you going?" and to "just turn around..."
 - Mid/Min/Max trim warnings are replaced by buzzers and puzzle completion warnings.
 - Custom switch warning.
@@ -18,3 +19,6 @@ For full setup instructions, plesae refer to [this video on my YouTube channel](
 
 ## About the Creator / Voice Pack ##
 I'm a web designer / developer by day, and flying quadcopters is one of my favorite hobbies. I just got a Taranis QX7 for Christmas and decided to take some time to create a fun voice pack for the community. I'm releasing the pack free of charge, but if you like this pack and want to support me, drop by and check out my [YouTube channel](https://www.youtube.com/channel/UCMK3_KYcJNlNJ_2X_UjrLfA) and consider giving me a subscription. Thanks!
+
+## About the updater / changes ##
+Found some funny qoutes missing so i added it, big tanks to Jareth MT for doing the boring work and creating this awsome pack. If you like the changes and want to support me, drop by and check out my [YouTube channel](https://www.youtube.com/channel/UCn4yo0J6IbaEticCCLqKxWw) aswell and consider giving me a subscription or follow me on instagram @creal_fpv Thanks!
