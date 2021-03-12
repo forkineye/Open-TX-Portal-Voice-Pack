@@ -2,7 +2,8 @@
 
 This is a fork of the original project by jarethmt, thanks to him for putting this together and the following users for updating it.  I couldn't find this merged anywhere, so I've applied updates from the following forks and normalized the audio with Audacity as the original files were pretty quite on my TX16S.  If you wish to submit a pull request, please normalize the audio in Audacity to a peak amplitude of -1.0dB.
 
-- [fr4nk3n5731n](https://github.com/fr4nk3n5731n/Open-TX-Portal-Voice-Pack) - sound additions
+- [fr4nk3n5731n](https://github.com/fr4nk3n5731n/Open-TX-Portal-Voice-Pack) - audio additions
+- [cyrilknops](https://github.com/cyrilknops/Open-TX-Portal-Voice-Pack) - audio additions
 - [markwdickson](https://github.com/markwdickson/Open-TX-Portal-Voice-Pack) - audio pause cleanup
 
 ## Open TX Portal Voice Pack (Original content below)
@@ -16,11 +17,11 @@ This is a complete OpenTX voice pack based on the popular "Portal" game. Every v
 
 ## Setup Instructions
 
-For full setup instructions, plesae refer to [this video on my YouTube channel](https://www.youtube.com/watch?v=2Q9X3i3uFAU). This sound pack can be installed like any other sound pack for OpenTX, so if you're familiar with the process, you can simply download the files in this repo and get started.
+For full setup instructions, please refer to [this video on my YouTube channel](https://www.youtube.com/watch?v=2Q9X3i3uFAU). This sound pack can be installed like any other sound pack for OpenTX, so if you're familiar with the process, you can simply download the files in this repo and get started.
 
 ## Fun Notes
 
-- The startup sound "hello.wav" is the announcer from the beginning of Portal 2. There is an alternate startup sound in the "SYSTEM" folder labeled "hello2.wav"
+- The startup sound "hello.wav" is the announcer from the beginning of Portal 2. There are alternate startup sounds in the "SYSTEM" folder labeled "hello2.wav" and "hello3.wav"
 - Signal warnings are replaced with Wheatley asking "Where are you going?" and to "just turn around..."
 - Mid/Min/Max trim warnings are replaced by buzzers and puzzle completion warnings.
 - Custom switch warning.
